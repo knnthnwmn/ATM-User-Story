@@ -1,7 +1,6 @@
-let pin = 1234
-
 let balance = 1000
-
-module.exports = {
-    p:pin, bal:balance
-}
+let pin = 1324
+    module.exports = {
+        bal: balance,
+        p: pin
+    }
