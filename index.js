@@ -1,3 +1,4 @@
+const { p } = require('./account');
 const account = require('./account');
 const {balance, withdraw, deposit, validate} = require('./atm');
 const prompt = require('prompt-sync')();
